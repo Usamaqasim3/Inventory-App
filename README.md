@@ -1,4 +1,4 @@
-# Inventory-App
+# Inventory-App React-Native and Laravel
 System Overview
 this system manages the following:
 
